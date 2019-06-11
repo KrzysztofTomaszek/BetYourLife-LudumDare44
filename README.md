@@ -12,6 +12,9 @@ We created all the graphics including 2d art and 3d models. For music and sound 
 TEAM
 
 Kamil Florek - 2d artist
+
 Tomasz Szymczyk - 3d artist/Teaser Creator
+
 Krzysztof Tomaszek - Game Designer/Programmer/Teaser Director
+
 Dariusz Wójcicki - Game Designer/Programmer/Teaser Assist
