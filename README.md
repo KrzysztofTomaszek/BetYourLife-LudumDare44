@@ -7,7 +7,7 @@ Each player (from 2 to 8) gets his own revolver and uses it to bet his life. The
 It is your life, that you use as money and well… life!
 We created all the graphics including 2d art and 3d models. For music and sound effects, we used gamesounds.xyz
 
-==============================================================================================
+===============================================================================
 
 TEAM
 
